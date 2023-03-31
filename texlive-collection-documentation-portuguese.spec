@@ -7,7 +7,7 @@
 Name:		texlive-collection-documentation-portuguese
 Epoch:		1
 Version:	20120224
-Release:	10
+Release:	11
 Summary:	Portuguese documentation
 Group:		Publishing
 URL:		http://tug.org/texlive
